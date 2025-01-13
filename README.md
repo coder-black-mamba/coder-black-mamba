@@ -1,10 +1,10 @@
-# I Am Not Gonna Do Any Thing Until I Got Married. In Our Country, It is often called "DHORMOGHOT" ;)
+# bEcoming Serious About Life
 
 
 - 👋 Hi, I’m @Abu Sayed
 - 👀 I’m interested in at now nothing
 - 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on ML Project + Java Spring Boot
+- 💞️ I’m looking to collaborate on ML Project + Embeded Systems Engineearing
 - 📫 How to reach me : don't
 - 😄 Pronouns: he
 - ⚡ Fun fact: I am Crazy
