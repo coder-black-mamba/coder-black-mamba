@@ -30,6 +30,7 @@ I’m a Full-Stack **Django & MERN** Developer and an **Aspiring AI Engineer**, 
 - 🛠️ &nbsp; Learning **MLOps, Docker, AWS, Advanced Python** for scalable AI workflows  
 - 💬 &nbsp; Ask me about **Full-Stack Development, ML/AI, Automations**  
 - 📝 &nbsp; Writing soon on **AI Engineering, Backend Systems, Practical ML** on My [Blog](https://absyd.xyz/blogs) 
+- 📝 &nbsp; Found My Resume [Here](https://drive.google.com/file/d/12ZwVZjGhsDgOXRRHQtsC3JoMc0FHatmX/view?usp=sharing) 
 - 📫 &nbsp; Reach me anytime via **[Email](mailto:sde.sayed24@gmail.com)** or **[LinkedIn](https://linkedin.com/in/itisabusayed)**
 
 
