@@ -25,7 +25,7 @@ I’m a Full-Stack **Django & MERN** Developer and an **Aspiring AI Engineer**, 
 ### Currently I Am,
 
 - 🖥️ &nbsp; Working with **React.js, Next.js, TypeScript, Redux** for frontend development  
-- 🗄️ &nbsp; Building backend systems using **Django, Django REST,Flask, Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, Prisma**  
+- 🗄️ &nbsp; Building backend systems using **Django, Django REST,Flask, Node.js, Express.js, MongoDB, Mongoose, PostgreSQL**  
 - 🤖 &nbsp; Diving Deep Into **Machine Learning, Deep Learning, Generative AI** and AI-powered apps  
 - 🛠️ &nbsp; Learning **MLOps, Docker, AWS, Advanced Python** for scalable AI workflows  
 - 💬 &nbsp; Ask me about **Full-Stack Development, ML/AI, Automations**  
