@@ -14,7 +14,7 @@
 📚   When I am free, I read fantasy and fiction novels. Checkout my Goodreads to see the book I have read -->
 
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQH2hOR8RP6lIA/profile-displaybackgroundimage-shrink_350_1400/B56ZstL_YuJ4AY-/0/1765989677815?e=1767830400&v=beta&t=YlfIvK4Zeu8WLwOnBqkYoSXZxb2zMzum-BlnmVWq4K0" alt="Description" style="width:100%; height:auto;">
+<img src="./Navy Geometric Technology LinkedIn Banner.png" alt="Description" style="width:100%; height:auto;">
 
 <h1 align="center">Hi 👋, I'm Abu Sayed</h1>
 <!-- <h3 align="center">Full-Stack Developer | Aspiring AI Engineer | Backend & Cloud & AI Enthusiast</h3> -->
