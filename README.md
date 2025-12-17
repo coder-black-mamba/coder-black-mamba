@@ -14,6 +14,8 @@
 📚   When I am free, I read fantasy and fiction novels. Checkout my Goodreads to see the book I have read -->
 
 
+<img src="https://media.licdn.com/dms/image/v2/D5616AQH2hOR8RP6lIA/profile-displaybackgroundimage-shrink_350_1400/B56ZstL_YuJ4AY-/0/1765989677815?e=1767830400&v=beta&t=YlfIvK4Zeu8WLwOnBqkYoSXZxb2zMzum-BlnmVWq4K0" alt="Description" style="width:100%; height:auto;">
+
 <h1 align="center">Hi 👋, I'm Abu Sayed</h1>
 <!-- <h3 align="center">Full-Stack Developer | Aspiring AI Engineer | Backend & Cloud & AI Enthusiast</h3> -->
 
@@ -33,8 +35,10 @@ I’m a Full-Stack **Django & MERN** Developer and an **Aspiring AI Engineer**, 
 - 📝 &nbsp; Found My Resume [Here](https://drive.google.com/file/d/12ZwVZjGhsDgOXRRHQtsC3JoMc0FHatmX/view?usp=sharing) 
 - 📫 &nbsp; Reach me anytime via **[Email](mailto:sde.sayed24@gmail.com)** : sde.sayed24@gmail.com or **[LinkedIn](https://linkedin.com/in/itisabusayed)**
 
-
-
+## Contact
+- LinkedIn: https://linkedin.com/in/itisabusayed
+- Email : sde.sayed24@gmail.com
+- Website : https://absyd.xyz
 
 
 ## 🌐 Socials:
